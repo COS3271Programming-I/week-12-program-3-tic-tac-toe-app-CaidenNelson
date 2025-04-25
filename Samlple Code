@@ -1,0 +1,64 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63819:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/UNWSP Java Class/out/production/Week 12 ticTacToe
+
+. . . 
+. . . 
+. . . 
+
+Enter Coordinates Where To Go Separated By A Space...
+1 1
+
+X . . 
+. . . 
+. . . 
+AI is moving ... 
+
+X . . 
+. O . 
+. . . 
+
+Enter Coordinates Where To Go Separated By A Space...
+1 3
+
+X . X 
+. O . 
+. . . 
+AI is moving ... 
+
+X O X 
+. O . 
+. . . 
+
+Enter Coordinates Where To Go Separated By A Space...
+3 2
+
+X O X 
+. O . 
+. X . 
+AI is moving ... 
+
+X O X 
+. O . 
+O X . 
+
+Enter Coordinates Where To Go Separated By A Space...
+3 3
+
+X O X 
+. O . 
+O X X 
+AI is moving ... 
+
+X O X 
+. O O 
+O X X 
+
+Enter Coordinates Where To Go Separated By A Space...
+2 1
+
+X O X 
+X O O 
+O X X 
+
+Cat Game.
+
+Process finished with exit code 0
